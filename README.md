@@ -16,8 +16,8 @@ _Texto_
 
 ## Negritas
 
-**Texto**
-__Texto__
+**Texto** (**)
+__Texto__ (__)
 
 ## Citas textuales
 
