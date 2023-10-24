@@ -37,7 +37,7 @@ Perico de los Palotes (2023)
 
 ![]()
 
-![Perro con fleco]([https://www.pinterest.com/pin/819514463432718241/](https://i.pinimg.com/originals/b7/83/b4/b783b4d6d582ca1bcb7f900d4fcd62c1.jpg))
+![Perro con fleco]([https://www.pinterest.com/pin/819514463432718241/](https://i.pinimg.com/originals/b7/83/b4/b783b4d6d582ca1bcb7f900d4fcd62c1.jpg)
 
 ## Listas numeradas
 
@@ -51,9 +51,9 @@ Perico de los Palotes (2023)
 
 -uno,-dos,-tres...
 
--Uno
--Dos
--Tres
+- Uno
+- Dos
+- Tres
 
 
 
